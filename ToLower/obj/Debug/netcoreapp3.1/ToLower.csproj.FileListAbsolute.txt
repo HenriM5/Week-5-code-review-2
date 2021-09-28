@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\obj\Debug\netcoreapp3.1\ToLower.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\obj\Debug\netcoreapp3.1\ToLower.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\obj\Debug\netcoreapp3.1\ToLower.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\obj\Debug\netcoreapp3.1\ToLower.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\bin\Debug\netcoreapp3.1\ToLower.exe
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\bin\Debug\netcoreapp3.1\ToLower.deps.json
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\bin\Debug\netcoreapp3.1\ToLower.runtimeconfig.json
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\bin\Debug\netcoreapp3.1\ToLower.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\bin\Debug\netcoreapp3.1\ToLower.dll
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\bin\Debug\netcoreapp3.1\ToLower.pdb
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\obj\Debug\netcoreapp3.1\ToLower.dll
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\obj\Debug\netcoreapp3.1\ToLower.pdb
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\ToLower\obj\Debug\netcoreapp3.1\ToLower.genruntimeconfig.cache

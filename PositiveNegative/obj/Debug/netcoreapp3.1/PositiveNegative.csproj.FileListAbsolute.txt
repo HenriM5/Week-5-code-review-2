@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\obj\Debug\netcoreapp3.1\PositiveNegative.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\obj\Debug\netcoreapp3.1\PositiveNegative.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\obj\Debug\netcoreapp3.1\PositiveNegative.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\obj\Debug\netcoreapp3.1\PositiveNegative.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\bin\Debug\netcoreapp3.1\PositiveNegative.exe
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\bin\Debug\netcoreapp3.1\PositiveNegative.deps.json
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\bin\Debug\netcoreapp3.1\PositiveNegative.runtimeconfig.json
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\bin\Debug\netcoreapp3.1\PositiveNegative.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\bin\Debug\netcoreapp3.1\PositiveNegative.dll
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\bin\Debug\netcoreapp3.1\PositiveNegative.pdb
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\obj\Debug\netcoreapp3.1\PositiveNegative.dll
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\obj\Debug\netcoreapp3.1\PositiveNegative.pdb
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\obj\Debug\netcoreapp3.1\PositiveNegative.genruntimeconfig.cache
